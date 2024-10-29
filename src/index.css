@@ -1,0 +1,19 @@
+/* src/index.css */
+
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.bg-gradient-to-b {
+  background: linear-gradient(to bottom, #3a7bd5, #3a6073);
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card {
+  border-radius: 1rem;
+}

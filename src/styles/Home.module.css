@@ -1,0 +1,23 @@
+/* src/styles/Home.module.css */
+.homeContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.text-center {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #A50044;
+}
+
+.card-header {
+    background-color: #004D98; /* Warna biru FC Barcelona */
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-body p {
+    font-size: 1.1rem;
+    color: #333;
+}

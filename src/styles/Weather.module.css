@@ -1,0 +1,25 @@
+/* src/styles/Weather.module.css */
+.weatherContainer {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #eaf6f6;
+    border-radius: 8px;
+}
+
+.weatherCard {
+    background-color: #f0f8ff;
+    border-radius: 8px;
+    border: none;
+}
+
+input {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 1em;
+}
+
+button {
+    width: 100%;
+    font-size: 1em;
+}
